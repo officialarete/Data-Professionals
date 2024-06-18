@@ -24,6 +24,8 @@ Insights and Implications
 - - -
 
 ## Introduction
+ This project provides comprehensive insight of the data professionals. 
+ It covers insights on their demographics, programming languages they prefer, career paths, salary expectations, and overall job satisfaction.
 
 ## Problem statement
 The data profession is facing several challenges that hinder its growth and development. 
@@ -57,7 +59,7 @@ Kaggle.com
 
 ## Data Analysis and Visualization
 
-
+![](DataProfessionalsnew.jpg)
 
 ## Insights 
 -The survey focuses on the demographics of data professionals and the experience they have had breaking into the data industry.
@@ -70,7 +72,6 @@ Kaggle.com
 
 -It is difficult to break into the data profession, with most respondents reporting that it is either difficult or very difficult to break into the industry.
 The results of the survey indicate that the data profession is a growing and competitive field.
-
 
 ## Recommendation
 
