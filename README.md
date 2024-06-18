@@ -53,7 +53,7 @@ Industry stakeholders: The dashboard provides a data-driven perspective on the t
 Kaggle.com
 
 ## Tools Used 
-- **Microsoft Power BI** [Donwload here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- **Microsoft Power BI** [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ## Data Transformation and Cleaning
 
