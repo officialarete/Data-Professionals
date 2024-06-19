@@ -19,8 +19,11 @@ Data Transformation and Loading
 
 Data Analysis and Visualization
 
-Insights and Implications
+Insights 
 
+Recommendation
+
+Conlusion
 - - -
 
 ## Introduction
