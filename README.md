@@ -60,6 +60,8 @@ Kaggle.com
 
 ## Data Transformation and Cleaning
 
+![](Dataproftransform.jpg)
+
 ## Data Analysis and Visualization
 
 ![](DataProfessionalsnew.jpg)
