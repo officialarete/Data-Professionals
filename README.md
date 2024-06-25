@@ -66,6 +66,8 @@ Kaggle.com
 
 ![](DataProfessionalsnew.jpg)
 
+You can view the PDF file from [here](https://drive.google.com/file/d/1JATK2JO_k5c6q9TvqcBEtxG_00IHEbbY/view?usp=sharing)
+
 ## Insights 
 -The survey focuses on the demographics of data professionals and the experience they have had breaking into the data industry.
 
